@@ -10,7 +10,7 @@
 
 ---
 
-## Front End:
+## Front End
 
 <section style="display: flex; gap: 30px">
   <img alt="HTML5" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
@@ -23,7 +23,7 @@
   <img alt="Node.js" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
 </section>
 
-## Back End:
+## Back End
 
 <section style="display: flex; gap: 30px">
   <img alt="TypeScript" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
